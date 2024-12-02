@@ -1,6 +1,6 @@
-# 🎥 TV Series AI Companion 🚀
-
+# 🎥 TV Series AI Companion 🚀 
 ![Status](https://img.shields.io/badge/Status-Currently%20Working%20On-brightgreen?style=flat-square)
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-orange?style=flat-square&logo=huggingface)
 ![NLP](https://img.shields.io/badge/NLP-Spacy-yellow?style=flat-square&logo=spacy)
