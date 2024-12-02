@@ -49,3 +49,15 @@ Follow these steps to set up and run the project locally.
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
+
+
+### 📘 Learnings
+- **LLMs & AI**: Enhanced knowledge of Transformers.
+- **NLP**: Built custom models with Hugging Face.
+- **Data Visualization**: NetworkX and PyViz for insights.
+- **Chatbot Development** : Gradio for intuitive AI interaction.
+  
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/akash061/)
+- [Email](akashgautham06@gmail.com)
