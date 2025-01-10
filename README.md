@@ -1,4 +1,4 @@
-# 🎥 TV Series AI Companion 🚀 
+# 🎥Build-an-Al-NLP-TV-Series-Explorer-System-with-Hugging-Face-Chatbots-Spacy-Gradio 🚀 
 ![Status](https://img.shields.io/badge/Status-Currently%20Working%20On-brightgreen?style=flat-square)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
