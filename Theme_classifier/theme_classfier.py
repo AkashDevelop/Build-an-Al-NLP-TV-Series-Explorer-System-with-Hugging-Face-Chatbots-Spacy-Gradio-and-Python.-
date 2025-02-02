@@ -13,6 +13,7 @@ from utils import load_subtitles_data
 nltk.download('punkt')
 nltk.download('punkt_tab')
 
+
 class ThemeClassifier():
     def __init__(self, theme_list):
         self.model_name = "facebook/bart-large-mnli"
