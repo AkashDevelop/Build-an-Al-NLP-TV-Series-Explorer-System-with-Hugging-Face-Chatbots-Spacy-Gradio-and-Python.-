@@ -2,7 +2,7 @@ import scrapy
 from bs4 import BeautifulSoup
 
 class BlogSpider(scrapy.Spider):
-    name = 'narutospider'
+    name =  'narutospider'
     start_urls = ['https://naruto.fandom.com/wiki/Special:BrowseData/Jutsu?limit=250&offset=0&_cat=Jutsu']
 
     def parse(self, response):
